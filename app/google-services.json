@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144639276952",
+    "project_id": "georescue-hub",
+    "storage_bucket": "georescue-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144639276952:android:1df07a6bd7b0683c315ded",
+        "android_client_info": {
+          "package_name": "com.example.georescuehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAraxP77DlB5_LZrgNg6VUkGrbchrDqnHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

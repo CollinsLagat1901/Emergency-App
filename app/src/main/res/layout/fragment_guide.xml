@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20sp"
+    tools:context=".GuideFragment"
+    android:background="@drawable/back01">
+
+<!--    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ></ScrollView>-->
+
+    <TextView
+        android:id="@+id/textTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GUIDANCE"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/darkpurple"
+
+        />
+
+    <Button
+        android:id="@+id/commonBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Common Incidence"
+        android:background="@drawable/button_style"
+        android:textColor="@color/white"
+        android:layout_marginTop="100dp"
+        />
+
+    <Button
+        android:id="@+id/fireBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fire Incidence"
+        android:background="@drawable/button_style"
+        android:textColor="@color/white"
+        android:layout_marginTop="60dp"
+        />
+    <Button
+        android:id="@+id/policeBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Waiting for Police"
+        android:background="@drawable/button_style"
+        android:textColor="@color/white"
+        android:layout_marginTop="60dp"
+        />
+
+
+</LinearLayout>

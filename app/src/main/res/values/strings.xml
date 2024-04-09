@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">E-aid</string>
+    <string name="desc1">
+        <b>Bleeding:</b>
+        <i> Apply direct pressure to the wound with a clean cloth or bandage. Elevate the bleeding area if possible.
+        Hold pressure for at least 10 minutes. If bleeding continues, seek medical attention immediately.</i>
+    </string>
+
+    <string name="desc2">
+        <b>Minor Cuts and Scrapes:</b>
+        <i> Clean the wound with mild soap and cool water. Remove any dirt or debris.
+        Apply a sterile bandage to protect the wound from infection.</i>
+    </string>
+
+    <string name="desc3">
+        <b>Burns:</b>
+        <i>For small burns, cool the area with running cool water for 10-15 minutes.
+        Avoid using ice directly on the burn.
+        Cover the burn with a loose sterile bandage. Do not break blisters.
+        For larger burns or burns that cause white or charred skin, seek medical attention immediately.</i>
+    </string>
+
+    <string name="desc4">
+        <b>Sprains and Strains:</b>
+        <i> Apply ice to the injured area for 20 minutes at a time, wrapped in a cloth to avoid direct skin contact.
+        Rest the injured area and elevate it if possible.
+        Compress the area with a bandage to reduce swelling.</i>
+    </string>
+
+    <string name="desc5">
+        <b>Choking:</b>
+        <i> For adults who are conscious and coughing: Encourage them to continue coughing.
+        Do not perform the Heimlich maneuver unless coughing is ineffective.
+        For adults who are unconscious and not breathing: Call emergency services immediately and begin CPR if you are trained.</i>
+    </string>
+
+    <string name="desc6">
+        <b>Insect bites and stings:</b>
+        <i> Clean the area with soap and water.
+        Apply a cold compress to reduce swelling.
+        Calamine lotion can help relieve itching.
+        Remove any stingers with tweezers, avoiding squeezing the venom sac.</i>
+    </string>
+
+    <string name="desc7">
+        <b>Allergic Reactions:</b>
+        <i> If someone is experiencing a severe allergic reaction (anaphylaxis), call emergency services immediately.
+        Look for signs like difficulty breathing, swelling of the face or throat, or hives.
+        If the person has an EpiPen, help them administer it if you are trained to do so.</i>
+    </string>
+    <string name="fireH">
+        <b>Here are some quick reaction tips on common fire incidences:</b>
+    </string>
+
+    <string name="police1">
+        <b> Secure Yourself:</b> The most important thing is to ensure your safety and the safety of others around you. If you feel threatened, get to a safe location and lock yourself in if possible.\
+        <b>Minimize Movement:</b> Avoid disturbing the scene or potential evidence.\
+        Call911 (or your local emergency number): This should be your first priority after securing yourself. Describe the situation clearly and concisely, including your location and any details about the suspect(s).\
+        Stay Calm: Take deep breaths and try to remain calm. This will help you think clearly and provide accurate information to the dispatcher.
+    </string>
+
+<!--  <string name="police2">
+    <b>Break-In (if you're not home):</b> Don't enter the building. Wait for the police outside and let them assess the situation.
+    <b>Break-In (if you're home and can escape safely):</b> Leave immediately and call the police from a safe location.
+    <b>Suspicious Activity:</b> If you see something suspicious, note details about the person(s) or activity and report it to the police. Don't confront them yourself.
+    <b>Domestic Violence:</b> If you are experiencing domestic violence, call the police and find a safe place to wait for them to arrive.
+</string>-->
+
+
+</resources>
+
+    <!--
+    <string name="fire2">
+        <b>Stay Low:</b> Smoke and heat rise, so crawl on the floor to stay below the smoke layer. Cover your mouth and nose with a damp cloth if possible.\
+        <b>Feel Doors Before Opening:</b> Don't open doors that feel hot. If an escape route is clear and cool to the touch, feel the doorknob before opening it slowly and cautiously. Be prepared to slam the door shut if flames or heavy smoke are present.\
+        <b>Signal for Help:</b> Open a window and wave a visible cloth to attract attention from outside. Shout for help only if you have enough breath; inhaling smoke can be deadly.
+      </string>
+
+    <string name="fire3">
+        <b>Assess the situation:</b>Only attempt to extinguish a small fire if you have a safe exit and a working fire extinguisher. Evaluate the size and type of fire (grease fire vs. electrical fire) before deciding to fight it.\
+        <b>Use the Right Extinguisher:</b> Identify the type of fire extinguisher needed (Class A for ordinary combustibles, Class B for flammable liquids, Class C for electrical fires) and ensure it's properly charged.\
+        <b>Pull the Pin, Aim, Squeeze, Sweep:</b> Remember the steps for using a fire extinguisher: pull the safety pin, aim at the base of the flames, squeeze the handle, and sweep the extinguisher side-to-side to smother the fire.\
+        <b>Evacuate if Necessary:</b> If the fire grows beyond your control, evacuate immediately and close the door behind you.
+     </string>
+
+    <string name="fire4">
+        <b> Know your escape plan:</b> Practice fire drills regularly and be familiar with multiple escape routes from your home or workplace.\
+        <b>Maintain fire alarms:</b> Ensure fire alarms are functional and have fresh batteries.\
+        <b>Keep fire extinguishers handy:</b> Have a fire extinguisher readily available in your kitchen and consider having one in other high-risk areas.
+    </string>
+
+    <string name="fire5">
+        <b>Remember:</b> Your safety is the top priority. If you're unsure about fighting a fire, evacuate immediately and call emergency services.
+        </string>
+
+
+
+
+
+
+    <string name="police4">
+        <![CDATA[
+        <u>Your safety is the top priority. Don't try to be a hero.</u>\
+        <i>Follow the instructions of the police dispatcher.\
+        Don't provide personal information to anyone claiming to be from the police over the phone. Real officers will identify themselves when they arrive.\
+        If you feel the situation has escalated and you're no longer safe waiting, try to escape and call the police from a safe location.\\
+
+        By following these tips, you can increase your safety while waiting for the police to arrive.
+        </i>
+        ]]>
+    </string>-->
